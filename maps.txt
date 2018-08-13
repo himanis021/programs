@@ -1,0 +1,4 @@
+keytool -list -v -keystore mystore.keystore
+
+
+AIzaSyAIzLil8C-KL1jxA2W-y5q8eKRqU73N_fY
